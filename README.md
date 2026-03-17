@@ -3,9 +3,9 @@
 
 ---
 
-```md
-## 🛠️ Tech Stack
 
+## 🧑🏻‍💻 Tech Stack
+```md
 !SolidWorks
 !Solid Edge
 
