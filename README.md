@@ -12,5 +12,3 @@
 !Simulink
 !Python
 !Mathematica
-
-!Excel
